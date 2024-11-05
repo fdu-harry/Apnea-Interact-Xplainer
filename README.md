@@ -31,13 +31,13 @@ nsrr download cfs
 # Create and activate conda environment
 conda create -n aix python=3.9
 conda activate aix
-```
 
 # Install PyTorch (GPU version)
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 
 # Install other dependencies
 pip install -r requirements.txt
+```
 
 ## License
 This project is licensed under MIT License with additional terms:
