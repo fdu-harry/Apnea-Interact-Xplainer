@@ -14,8 +14,8 @@ Early detection of potentially widespread undiagnosed sleep apnea (SA) is crucia
 Our experiments use both public and private datasets. Here are the instructions for accessing each dataset:
 
 ### 1. Public Datasets
-#### SHHS Dataset
-Install NSRR gem and download SHHS dataset:
+#### NSRR Dataset (https://sleepdata.org/)
+Install NSRR gem and download SHHS/MESA/MROS/CFS dataset:
 ```bash
 gem install nsrr
 nsrr download shhs
