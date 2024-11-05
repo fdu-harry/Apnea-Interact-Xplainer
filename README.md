@@ -1,14 +1,34 @@
-# Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios
+# Apnea Interact Xplainer (AIX)
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Stars](https://img.shields.io/github/stars/fdu-harry/Apnea-Interact-Xplainer?style=social)
 ![Forks](https://img.shields.io/github/forks/fdu-harry/Apnea-Interact-Xplainer?style=social)
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffdu-harry%2FApnea-Interact-Xplainer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
-[Paper](论文链接)
+## Overview
+AIX (Apnea Interact Xplainer) is a transparent AI system that enables sleep apnea diagnosis through efficient variable-modal analysis across clinical and home settings. It is a PyTorch-based framework containing both interpretable deep learning models and interactive visualization tools, as introduced in our paper [Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios].
 
-## Summary
-Early detection of potentially widespread undiagnosed sleep apnea (SA) is crucial for preventing its severe health complications, yet large-scale diagnosis faces barriers of limited trust in automated analysis and monitoring inaccessibility, particularly due to the absence of transparent artificial intelligence (AI) frameworks capable of monitoring adaptation. Here, we develop Apnea Interact Xplainer (AIX), a transparent AI system that enables SA diagnosis through efficient variable-modal analysis across clinical and home settings. Analyzing 15,510 polysomnography records from six independent multi-ethnic databases, AIX achieves 99.8% accuracy within one severity grade and R-squared of 0.93-0.96 for apnea-hypopnea index prediction on external test sets. AIX provides multi-level expert-logic interpretable visualization of respiratory patterns enabling human-AI collaboration. Notably, AIX achieves sensitivity of 0.949 for early SA detection using only oximetry signals, while providing nightly risk assessment and intelligent monitoring reports. This study establishes a paradigm shift in advancing early and cost-effective SA diagnosis through transparent AI.
+<div align="center">
+    <img src="figures/framework.png" width="800px">
+    <p>Framework of AIX system for transparent sleep apnea assessment.</p>
+</div>
+
+## Key Features
+- 🔍 Multi-level interpretable visualization
+- 🏥 Flexible monitoring scenarios support
+- 🤝 Human-AI collaborative diagnosis
+- 📊 Interactive result exploration
+- 📱 Clinical deployment ready
+
+## Contents
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Data Preparation](#downloading-data)
+- [Model Training](#model-training)
+- [Visualization](#visualization)
+- [Results](#results)
+- [Citation](#citation)
+- [License](#license)
 
 ## Downloading Data
 Our experiments use both public and private datasets. Here are the instructions for accessing each dataset:
