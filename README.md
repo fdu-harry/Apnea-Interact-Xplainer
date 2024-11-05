@@ -28,6 +28,10 @@ You can download the pre-built executable from:
 1. Download the AIX.zip file
 2. Extract to your preferred location
 3. Run AIX.exe
+For detailed step-by-step instructions, please watch our tutorial video:
+- [AIX Operation Tutorial](file name: AIX video; size: 26M):
+- [Baidu Netdisk](https://pan.baidu.com/s/1q1M8KSGgmn8_E7ovnLssSw?pwd=aixx) (Extraction Code: aixx)
+- [Google Drive](https://drive.google.com/file/d/1l-UolCbew5eL7EsSvH7HctGgKL_zdUen/view?usp=drive_link)
 
 ## Key Features
 - 🔍 Multi-level interpretable visualization
