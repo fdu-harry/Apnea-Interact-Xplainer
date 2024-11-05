@@ -1,4 +1,4 @@
-# [Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios]
+# Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios
 
 ![license](许可证标签) ![Stars](stars标签) ![Forks](forks标签) ![visitors](访客统计标签)
 
@@ -14,3 +14,27 @@ Early detection of potentially widespread undiagnosed sleep apnea (SA) is crucia
 - 具体的数据处理命令示例
 ```python
 python -m scripts.process_data --data_path <path> --dataset <name>
+
+## License
+This project is licensed under MIT License with additional terms:
+
+### Permissions
+- Academic and research use with proper citation
+- Access to source code for research purposes
+- Clinical deployment ONLY through explicit authorization from the authors
+
+### Usage Restrictions
+- Commercial use requires explicit permission from the authors
+- Clinical deployment requires prior written agreement
+- Large-scale usage or modifications need author authorization
+
+### For Clinical Partners
+For clinical deployment or collaboration inquiries, please contact:
+- Author Name: Shuaicong Hu
+- Email: schu22@m.fudan.edu.cn
+- Institution: Fudan university
+
+### For Researchers
+If you use this code in your research, please cite our paper:
+```bibtex
+[您的论文引用格式]
