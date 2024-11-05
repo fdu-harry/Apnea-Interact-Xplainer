@@ -17,8 +17,7 @@ AIX (Apnea Interact Xplainer) is a transparent AI system that enables sleep apne
 You can download the pre-built executable from:
 
 - [Baidu Netdisk](https://pan.baidu.com/s/1VnALWGZ3c44CqNQFaTSlNg?pwd=aixx) (Extraction Code: aixx)
-- [Google Drive](你的Google Drive链接)
-- [OneDrive](你的OneDrive链接)
+- [Google Drive]((https://drive.google.com/file/d/1NiiBx4XNWH8ubIBfoLP4I6Kw5A9vHBPO/view?usp=drive_link))
 
 ### System Requirements
 - Windows 10/11
