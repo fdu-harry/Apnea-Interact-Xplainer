@@ -50,6 +50,8 @@ You can download the pre-built executable from:
 Since the model weight file is large (39M), it is stored using Git LFS and requires specific steps to download:
 
 ### Prerequisites
+> Note: If Git or Git LFS is already installed, you can uninstall them from Control Panel first to avoid conflicts.
+
 1. Download and install Git from: https://git-scm.com/downloads
 2. Download and install Git LFS from: https://git-lfs.com/
 
