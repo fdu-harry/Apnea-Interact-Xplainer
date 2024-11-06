@@ -14,6 +14,16 @@ AIX (Apnea Interact Xplainer) is a transparent AI system that enables sleep apne
     <p>Framework of AIX system for transparent sleep apnea assessment.</p>
 </div>
 
+## Contents
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Data Preparation](#downloading-data)
+- [Model Training](#model-training)
+- [Visualization](#visualization)
+- [Results](#results)
+- [Citation](#citation)
+- [License](#license)
+
 ## AIX Program Download
 You can download the pre-built executable from:
 
@@ -34,6 +44,41 @@ You can download the pre-built executable from:
 - [Baidu Netdisk](https://pan.baidu.com/s/1q1M8KSGgmn8_E7ovnLssSw?pwd=aixx) (Extraction Code: aixx)
 - [Google Drive](https://drive.google.com/file/d/1l-UolCbew5eL7EsSvH7HctGgKL_zdUen/view?usp=drive_link)
 
+
+## Download Model Weights Tutorial
+
+Since the model weight file is large, it is stored using Git LFS and requires specific steps to download:
+
+### Steps
+
+1. Create and enter download directory
+```bash
+H:
+mkdir test_lfs
+cd test_lfs
+```
+
+2. Install Git LFS
+```bash
+git lfs install
+```
+
+3. Clone repository (using SSH)
+```bash
+git clone git@github.com:fdu-harry/Apnea-Interact-Xplainer.git
+```
+
+4. Enter project directory
+```bash
+cd Apnea-Interact-Xplainer
+```
+
+5. Pull LFS files
+```bash
+git lfs pull
+```
+
+
 ## Key Features
 - 🔍 Multi-level interpretable visualization
 - 🏥 Flexible monitoring scenarios support
@@ -41,15 +86,6 @@ You can download the pre-built executable from:
 - 📊 Interactive result exploration
 - 📱 Clinical deployment ready
 
-## Contents
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Data Preparation](#downloading-data)
-- [Model Training](#model-training)
-- [Visualization](#visualization)
-- [Results](#results)
-- [Citation](#citation)
-- [License](#license)
 
 ## Downloading Data
 Our experiments use both public and private datasets. Here are the instructions for accessing each dataset:
