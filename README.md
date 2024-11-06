@@ -45,35 +45,46 @@ You can download the pre-built executable from:
 - [Google Drive](https://drive.google.com/file/d/1l-UolCbew5eL7EsSvH7HctGgKL_zdUen/view?usp=drive_link)
 
 
-## Download Model Weights Tutorial
+## Steps to Run Pred_single_modal.py
 
-Since the model weight file is large, it is stored using Git LFS and requires specific steps to download:
+Since the model weight file is large (39M), it is stored using Git LFS and requires specific steps to download:
+
+### Prerequisites
+1. Download and install Git from: https://git-scm.com/downloads
+2. Download and install Git LFS from: https://git-lfs.com/
 
 ### Steps
 
-1. Create and enter download directory
+1. Enter the drive 
 ```bash
-H:
+H:    # Choose any drive with sufficient storage space
+```
+
+2. Create a new directory
+```bash
 mkdir test_lfs
+```
+3. Enter the directory
+```bash
 cd test_lfs
 ```
 
-2. Install Git LFS
+4. Install Git LFS
 ```bash
 git lfs install
 ```
 
-3. Clone repository (using SSH)
+5. Clone repository (using SSH)
 ```bash
 git clone git@github.com:fdu-harry/Apnea-Interact-Xplainer.git
 ```
 
-4. Enter project directory
+6. Enter project directory
 ```bash
 cd Apnea-Interact-Xplainer
 ```
 
-5. Pull LFS files
+7. Pull LFS files
 ```bash
 git lfs pull
 ```
