@@ -14,6 +14,7 @@ AIX (Apnea Interact Xplainer) is a transparent AI system that enables sleep apne
     <p>Framework of AIX system for transparent sleep apnea assessment.</p>
 </div>
 
+
 ## Contents
 - [Installation](#installation)
 - [Quick Start](#quick-start)
@@ -24,7 +25,16 @@ AIX (Apnea Interact Xplainer) is a transparent AI system that enables sleep apne
 - [Citation](#citation)
 - [License](#license)
 
-## AIX Program Download
+
+## Key Features
+- 🔍 Multi-level interpretable visualization
+- 🏥 Flexible monitoring scenarios support
+- 🤝 Human-AI collaborative diagnosis
+- 📊 Interactive result exploration
+- 📱 Clinical deployment ready
+
+
+## AIX One-Click Installation Guide
 You can download the pre-built executable from:
 
 - [Baidu Netdisk](https://pan.baidu.com/s/1VnALWGZ3c44CqNQFaTSlNg?pwd=aixx) (Extraction Code: aixx)
@@ -91,13 +101,6 @@ cd Apnea-Interact-Xplainer
 git lfs pull
 ```
 8. Run file Pred_single_modal.py
-
-## Key Features
-- 🔍 Multi-level interpretable visualization
-- 🏥 Flexible monitoring scenarios support
-- 🤝 Human-AI collaborative diagnosis
-- 📊 Interactive result exploration
-- 📱 Clinical deployment ready
 
 
 ## Downloading Data
