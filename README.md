@@ -88,7 +88,7 @@ cd Apnea-Interact-Xplainer
 ```bash
 git lfs pull
 ```
-
+8. Run file Pred_single_modal.py
 
 ## Key Features
 - 🔍 Multi-level interpretable visualization
