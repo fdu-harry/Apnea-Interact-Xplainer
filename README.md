@@ -7,7 +7,7 @@
 [![Watching](https://img.shields.io/github/watchers/fdu-harry/Apnea-Interact-Xplainer?style=social)](https://github.com/你的用户名/仓库名/watchers)
 
 ## Overview
-AIX (Apnea Interact Xplainer) is a transparent AI system that enables sleep apnea diagnosis through efficient variable-modal analysis across clinical and home settings. It is a PyTorch-based framework containing both interpretable deep learning models and interactive visualization tools, as introduced in our paper [Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios].
+AIX (Apnea Interact Xplainer) is a transparent AI system that enables sleep apnea diagnosis through efficient variable-modal analysis across clinical and home settings. It is a PyTorch-based framework containing both interpretable deep learning models and interactive visualization tools, as introduced in our paper "Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios".
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/fdu-harry/Apnea-Interact-Xplainer/main/figures/AIX.jpg" width="800px">
